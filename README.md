@@ -1,7 +1,7 @@
 # Url based Image Downloader
 
 <p align="center">
-  <img src="logo/pdfLogo.png" width="225" alt="logo">
+  <img src="thumbnail/url_img_downloader.png" width="225" alt="logo">
 </p>
 
 ## url-image-downloader
