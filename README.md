@@ -37,9 +37,9 @@ Python script to download images from a provided url
   Path to Directory: .\dir_images 
   ```
 - Watch the progress of the download  
-  Valid URL  
-  Found 60 Images in the provided url.  
-  Now downloading 60 Images..........  
- 100% ███████████████████████████████████████████████████| 60/60 [00:14<00:00,  4.20it/s]  
- 
- Download completed. check .\dir_images folder for downloaded images.
+   Valid URL  
+   Found 60 Images in the provided url.  
+   Now downloading 60 Images..........  
+   100% ███████████████████████████████████████████████████| 60/60 [00:14<00:00,  4.20it/s]  
+
+   Download completed. check .\dir_images folder for downloaded images.
