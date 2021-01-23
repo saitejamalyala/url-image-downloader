@@ -4,9 +4,8 @@
   <img src="thumbnail/url_img_downloader.png" width="225" alt="logo">
 </p>
 
-## url-image-downloader
-Python script to download images from a provided url
 
+Python script to download images from a provided url
 
 - Instantly download all necessary image files from the url
 
