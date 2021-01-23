@@ -20,7 +20,8 @@ def get_all_images_from_url(web_url,download_directory):
 
     '''
     Purpose: To download all Images from a provided Url to a local directory
-    Inputs : url (from where the images are supposed to be downloaded)
+    Inputs :  1. url (from where the images are supposed to be downloaded)
+              2. download_directory (directory to save the downloaded images)
 
     '''
     #check if entered url is valid
