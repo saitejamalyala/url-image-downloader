@@ -1,3 +1,9 @@
+# Url based Image Downloader
+
+<p align="center">
+  <img src="logo/pdfLogo.png" width="225" alt="logo">
+</p>
+
 ## url-image-downloader
 Python script to download images from a provided url
 
